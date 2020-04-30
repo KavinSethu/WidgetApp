@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/tvWidget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:background="@drawable/border_black"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:text="123456"
+        android:contentDescription="appwidget_textarea"
+        android:textStyle="bold|italic"/>
+
+</LinearLayout>

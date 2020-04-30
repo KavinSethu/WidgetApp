@@ -1,0 +1,31 @@
+package kavin.learn.widgetapp.CalenderTaskAdd;
+
+public class Contactpojo {
+    String name;
+    String description;
+    String thumbnail;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getThumbnail() {
+        return thumbnail;
+    }
+
+    public void setThumbnail(String thumbnail) {
+        this.thumbnail = thumbnail;
+    }
+}

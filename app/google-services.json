@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31664223432",
+    "firebase_url": "https://widgetapp-d7233.firebaseio.com",
+    "project_id": "widgetapp-d7233",
+    "storage_bucket": "widgetapp-d7233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31664223432:android:acfe0e8e261b08457be1fd",
+        "android_client_info": {
+          "package_name": "kavin.learn.widgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31664223432-tj6omfpf76ordobu5pkmj7skab4t5heq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kavin.learn.widgetapp",
+            "certificate_hash": "55b180538cc2d68f10d0581848d140aee88868d5"
+          }
+        },
+        {
+          "client_id": "31664223432-lnrncphh5dar7bebmhlchcnjcigd15ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4npIjdYTtKYb-zu3cgEosAXIVsO2CLsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31664223432-lnrncphh5dar7bebmhlchcnjcigd15ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
